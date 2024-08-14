@@ -4,6 +4,9 @@
 - `cd client`
 - `npm install`
 - `npm run server`
+- then open the localhost address to use
+  - remember to turn off block-ads
+  - use the localhost address, don't use 192.168.1.9 (insecure website => block camera)
 
 ## Server
 - to host Backend, copy scripts below to command prompt:
